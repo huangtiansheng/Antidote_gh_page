@@ -4,10 +4,10 @@ permalink: /
 
 title:  "Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning"
 authors:
-  - "Tiansheng Huang,"
-  - "Gautam Bhattacharya,"
-  - "Pratik Joshi,"
-  - "Josh Kimball," 
+  - "Tiansheng Huang, "
+  - "Gautam Bhattacharya, "
+  - "Pratik Joshi, "
+  - "Josh Kimball, " 
   - "Ling Liu"
 
 affiliations:
