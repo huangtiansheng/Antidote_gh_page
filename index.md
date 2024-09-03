@@ -11,7 +11,7 @@ authors:
   - "Ling Liu"
 
 affiliations:
-  - "Georgia Institute of Technology"
+  - "Georgia Institute of Technology, "
   - "Dolby Laboratories"
 paper: https://arxiv.org/abs/2408.09600
 ---
@@ -75,7 +75,7 @@ We use the standard alignment/fine-tuning procedures (for the alignment procedur
 
 
 **Identification of harmful parameters.**
-We rely on the Wanda score to identify the harmful parameters given the re-alignment dataset. Wanda score is orginally used to identify important parameters based on the magnitude of the proxy dataset's activation. Its formulation is as follows:
+We rely on the Wanda score [8] to identify the harmful parameters given the re-alignment dataset. Wanda score is orginally used to identify important parameters based on the magnitude of the proxy dataset's activation. Its formulation is as follows:
 
 <p align="middle">
   <img src="static/image/wanda.png" width="500" />
